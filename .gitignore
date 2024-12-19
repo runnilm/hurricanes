@@ -1,0 +1,139 @@
+# ---------------------------
+# Operating System Files
+# ---------------------------
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# ---------------------------
+# IDE and Editor Files
+# ---------------------------
+
+# VS Code
+.vscode/
+.history/
+
+# PHPStorm
+.idea/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Eclipse
+.project
+.phpunit.result.cache
+
+# ---------------------------
+# Dependency Directories
+# ---------------------------
+
+# Composer dependencies
+/vendor/
+
+# NPM dependencies
+node_modules/
+
+# ---------------------------
+# Build Artifacts
+# ---------------------------
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# ---------------------------
+# Logs and Databases
+# ---------------------------
+
+# Log files
+*.log
+
+# Database files
+*.sql
+*.sqlite
+*.sqlite3
+
+# ---------------------------
+# Environment Files
+# ---------------------------
+
+# Environment variable files
+.env
+.env.local
+.env.*.local
+
+# ---------------------------
+# Temporary Files
+# ---------------------------
+
+# Temporary files
+tmp/
+temp/
+cache/
+*.tmp
+*.swp
+*.swo
+
+# ---------------------------
+# Application Data
+# ---------------------------
+
+# Data directory
+/data/
+
+# ---------------------------
+# Miscellaneous
+# ---------------------------
+
+# Backup files
+*.bak
+*.backup
+*.old
+*.orig
+*.save
+
+# OS generated files #
+######################
+ehthumbs.db
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# Thumbnails
+*.thumbnail
+
+# ---------------------------
+# Custom Exclusions
+# ---------------------------
+
+# Add any other directories or files you want to exclude below
+# For example:
+# /path/to/exclude/
